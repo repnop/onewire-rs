@@ -1,0 +1,6 @@
+[package]
+name = "onewire"
+version = "0.1.0"
+authors = ["repnop <repnop@outlook.com>"]
+
+[dependencies]
